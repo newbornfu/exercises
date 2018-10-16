@@ -3,6 +3,6 @@
 第一步    使用命令行进入  本地仓库所属 文件夹   (cd 命令)
 第二步   使用命令  git status  检测 有无修改 文件记录 
 第三步  使用命令 git add . 提交所有修改
-第四步  使用命令 git commit -t '写你改了什么东西 记录一下'
+第四步  使用命令 git commit -m '写你改了什么东西 记录一下'
 第五步  使用命令  git push 项目地址 (https://github.com/newbornfu/mmall_learning.git)
 然后 点击确定 输入账号密码
